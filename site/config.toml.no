@@ -12,3 +12,6 @@ theme = "hugo-blog-jeffprod"
 [taxonomies]
     tag = "tags"
     archive = "archives"
+    
+[outputs]
+    section = ["JSON", "HTML"]
